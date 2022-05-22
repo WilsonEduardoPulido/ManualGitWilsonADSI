@@ -1,3 +1,5 @@
 Este es mi documento : 1002521072
 Hola este es el archivo modificado 
 del manual de git 
+
+modificar
