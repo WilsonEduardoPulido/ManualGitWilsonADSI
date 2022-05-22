@@ -1,6 +1,1 @@
-Este es mi nombre : Wilson Eduardo Pulido Vargas
-Este es el archivo cambiado 
-de mi nombre 
-manual git
-
-cambio
+Wilson Eduardo Pulido Vargas
