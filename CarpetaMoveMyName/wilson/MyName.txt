@@ -1,4 +1,5 @@
 Wilson Eduardo Pulido Vargas 
 
 Restaurar archivo con reset 
+commit
 
