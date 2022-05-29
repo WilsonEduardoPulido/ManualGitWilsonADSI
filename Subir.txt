@@ -1,3 +1,6 @@
+
+ HOLA MODIFICANDO ARCHIVO DESDE GIT PARA LUEGO COLOCAR EN EL REPOSITORIO
+
 Las plantillas, y en particular las plantillas web, son una forma de representar datos en diferentes formas. 
 Estos formularios a menudo (pero no siempre) pretendían ser legibles, incluso atractivos, para una audiencia humana. 
 Con frecuencia, las soluciones de plantillas involucran un documento (la plantilla) y datos. 
@@ -9,4 +12,4 @@ los datos que se deben representar y los datos que se requieren para la plantill
  La combinación de plantilla+datos produce el resultado final que suele ser (pero no siempre) 
  una página web de algún tipo
  
- HOLA MODIFICANDO ARCHIVO DESDE GIT 
+ HOLA MODIFICANDO ARCHIVO DESDE GIT PARA LUEGO COLOCAR EN EL REPOSITORIO
