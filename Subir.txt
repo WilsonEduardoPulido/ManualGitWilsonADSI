@@ -1,0 +1,10 @@
+Las plantillas, y en particular las plantillas web, son una forma de representar datos en diferentes formas. 
+Estos formularios a menudo (pero no siempre) pretendían ser legibles, incluso atractivos, para una audiencia humana. 
+Con frecuencia, las soluciones de plantillas involucran un documento (la plantilla) y datos. 
+La plantilla generalmente se parece mucho al resultado final, con marcadores de posición en 
+lugar de datos reales (o datos de ejemplo en forma simplificada), tiene un estilo común y elementos 
+visuales. Los datos que se presentan utilizando esa plantilla también se pueden separar en dos partes: 
+los datos que se deben representar y los datos que se requieren para la plantilla en sí (elementos de
+ navegación si se trata de un sitio, nombres de botones si se trata de una interfaz de usuario).
+ La combinación de plantilla+datos produce el resultado final que suele ser (pero no siempre) 
+ una página web de algún tipo
